@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IOT Smart House</string>
+    <string name="title_activity_red_house">RedHouseActivity</string>
+</resources>
